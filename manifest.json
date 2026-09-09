@@ -1,0 +1,16 @@
+{
+  "name": "ICC Crash Course — E1/E2 Electrical Inspector",
+  "short_name": "ICC Crash Course",
+  "description": "Flashcards, code reference, and scenario quizzes for the ICC E1 (Residential) and E2 (Commercial) Electrical Inspector exams.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#121417",
+  "theme_color": "#121417",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
