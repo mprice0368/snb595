@@ -1,0 +1,6 @@
+interface:
+  display_name: "Snb595"
+  short_description: "Repo-specific patterns and workflows for snb595"
+  default_prompt: "Use the snb595 repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
